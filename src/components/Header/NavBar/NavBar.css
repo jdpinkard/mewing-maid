@@ -1,0 +1,37 @@
+.nav-container {
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    table-layout: fixed;
+    background-color: rgba(219, 152, 183, 0.7);
+}
+
+.nav-container td {
+    border: 2px dotted #AF1468;
+    border-width: medium;
+    height: 100px;
+}
+
+.nav-container a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-container img {
+    width: 40px;
+}
+
+.nav-container h1 {
+    font-size: 1.8rem;
+    color: #AF1468;
+    text-decoration: underline;
+}
+
+.nav-container h1:hover {
+    color: white;
+}
