@@ -9,10 +9,6 @@
     text-align: center;
 }
 
-.footer-container a {
-
-}
-
 .footer-container img {
     width: 50px;
     height: auto;
@@ -23,5 +19,6 @@
 }
 
 .footer-container p {
-    color: rgb(223, 193, 193);
+    color: rgb(223, 193, 193, 0.9);
+    font-size: 1.3rem;
 }

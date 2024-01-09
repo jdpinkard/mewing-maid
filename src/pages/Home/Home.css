@@ -1,0 +1,42 @@
+.home-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 40px 0px;
+}
+
+.home-container div {
+    width: 515px;
+}
+
+.home-container h1 {
+    font-family: 'Great Vibes';
+    font-weight: 100;
+    font-size: 2.9rem;
+    text-shadow: 1.5px 2.5px 2px #AF1468;
+    line-height: 30px;
+}
+
+.home-container p {
+    font-size: 1.7rem;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.home-container span {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.home-container span {
+    font-weight: 500;
+}
+
+
+
+
+
+.dotted {
+  border-top: 3px dotted white;
+}

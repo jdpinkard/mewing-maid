@@ -21,12 +21,6 @@ const NavBar = () => {
         <td>
           <a href="/">
             <img src={logo} alt="Services Icon" />
-            <h1>Services</h1>
-          </a>
-        </td>
-        <td>
-          <a href="/">
-            <img src={logo} alt="Staff Icon" />
             <h1>Staff</h1>
           </a>
         </td>
